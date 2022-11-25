@@ -5,6 +5,6 @@ I'm a <a rel="me" href="https://tech.lgbt/@cmdrmoto">Queer</a>, <a rel="me" href
 
 I used to live in the <a rel="me" href="https://sfba.social/@cmdrmoto">SF</a> Bay Area, both East and West side, and I left a lot of my heart there.</a>
 
-My local hackerspace is in <a rel="me" href="https://emeraldsocial.org/@cmdrmoto">Eugene</a>, OR
+My local hackerspace is in <a rel="me" href="https://emeraldsocial.org/@Cmdrmoto">Eugene</a>, OR
 
 <a rel="me" href="https://neurodifferent.me/@Cmdrmoto">Mastodon</a>
