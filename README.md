@@ -7,6 +7,7 @@ I'm a
  * <a rel="me" href="https://neurodifferent.me/@Cmdrmoto">autistic</a> 
  * <a rel="me" href="https://cryptodon.chat/@cmdrmoto">cypherpunk</a> 
  * who's lately been toying with the idea of getting into more <a rel="me" href="https://kolektiva.social/@cmdrmoto">activism</a>
+ * I also care quite a lot about quality <a rel="me" href="https://toad.social/@CmdrMoto">journalism</a>
 
 I used to live in the <a rel="me" href="https://sfba.social/@cmdrmoto">SF</a> Bay Area, both East and West side, and I left a lot of my heart there.</a>
 
