@@ -6,6 +6,7 @@ I'm a
  * <a rel="me" href="https://infosec.exchange/@cmdrmoto">insecure</a>
  * <a rel="me" href="https://neurodifferent.me/@Cmdrmoto">autistic</a> 
  * <a rel="me" href="https://cryptodon.chat/@cmdrmoto">cypherpunk</a> 
+ * <a rel="me" href="https://hachyderm.io/@cmdrmoto">hacker</a>
  * who's lately been toying with the idea of getting into more <a rel="me" href="https://kolektiva.social/@cmdrmoto">activism</a>
 
 I also care quite a lot about quality <a rel="me" href="https://toad.social/@CmdrMoto">journalism</a>
